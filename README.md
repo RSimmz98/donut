@@ -1,2 +1,2 @@
 # donut
-just rendering a donut for fun 
+just rendering a donut in the terminal 
